@@ -19,7 +19,7 @@ static void sig_handler(int uuv)
 }
 
 /**
- * main - main function for the shell
+ * main - to write the main function for the shell
  * @argc: number of arguments passed to main
  * @argv: array of arguments passed to main
  * @environment: array of environment variables
